@@ -5,3 +5,8 @@ header {
     width: 130px;
     height: 157px;
 }
+
+
+.cabecalho_titulo ,.cabecalho_menu {
+    display: inline;
+}
