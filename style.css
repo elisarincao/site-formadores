@@ -16,9 +16,8 @@ body {
     border-radius: 100px;
 }
 
-.cabecalho_titulo ,.cabecalho_menu {
+.cabecalho__titulo ,.cabecalho__menu {
     display: inline;
-
 }
 
 .escola {
