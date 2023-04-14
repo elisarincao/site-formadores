@@ -25,12 +25,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 100px;
+    border-radius: 50px;
 }
 
 .escola__imagem{
     margin: 20px ;
-    width: 100px;
+    width: 150px;
     height: auto;
 }
 
