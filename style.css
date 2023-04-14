@@ -18,3 +18,6 @@ body {
 .cabecalho_titulo ,.cabecalho_menu {
     display: inline;
 }
+.escola {
+    display: flex;
+}
