@@ -25,7 +25,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 200px;
+    border-radius: 100px;
 }
 
 .escola__imagem{
