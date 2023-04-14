@@ -7,9 +7,10 @@ body {
     justify-content: space-around;
     align-items: center;
     background-color: rgb(16, 163, 163);
-    border-radius: 0px 0px 0px 20 px;
+    border-radius: 0px 0px 0px 400 px;
 }
 .cabecalho__imagem {
+
     width: 116px;
     height: 113px;
     border-radius: 100px;
