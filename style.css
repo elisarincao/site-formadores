@@ -19,5 +19,24 @@ body {
     display: inline;
 }
 .escola {
+    margin: 20px;
+    padding: 20px;
+    background-color: aqua;
     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.escola__imagem{
+    margin: 20px ;
+    width: 300px;
+    height: auto;
+}
+
+.escola__titulo{
+
+    text-align: center;
+}
+.escola__paragrafo{
+    text-align: justify;
 }
