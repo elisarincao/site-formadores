@@ -16,10 +16,11 @@ body {
     border-radius: 100px;
 }
 
-
 .cabecalho_titulo ,.cabecalho_menu {
     display: inline;
+
 }
+
 .escola {
     margin: 20px;
     padding: 20px;
