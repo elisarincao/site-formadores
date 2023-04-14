@@ -5,11 +5,13 @@ body {
 .cabecalho {
     display: flex;
     justify-content: space-around;
+    align-items: center;
     background-color: rgb(16, 163, 163);
 }
 .cabecalho__imagem {
     width: 116px;
     height: 113px;
+    border-radius: 100px;
 }
 
 
