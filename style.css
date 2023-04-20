@@ -50,3 +50,8 @@ body {
 .escola__paragrafo{
     text-align: justify;
 }
+.professores{
+    background-color: #9c4343;
+    border-radius: 40px;
+    margin: 20px;
+    padding: 20px;
